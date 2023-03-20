@@ -5,6 +5,8 @@
 <h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
 
+- My current location : **Bangladesh, Khulna, Satkhira**
+
 - I’m currently working on : **DetaSploit**
 
 - I’m currently learning : **Animation, Ethical Hacking**
