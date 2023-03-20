@@ -7,6 +7,8 @@
 
 - My current location : **Bangladesh, Khulna, Satkhira**
 
+- My religion : **Islam**
+
 - I’m currently working on : **DetaSploit**
 
 - I’m currently learning : **Animation, Ethical Hacking**
