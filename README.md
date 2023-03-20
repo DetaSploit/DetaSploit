@@ -15,7 +15,7 @@
 
 - Ask me about : **Animation, Ethical Hacking**
 
-- Favorite Quotes : **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Hazrat Muhammad (ﷺ)**
+- Favorite Quotes : **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Prophet Muhammad (ﷺ)**
 
 <h3 align="left">🗣️ Connect with me :</h3>
 <p align="left">
