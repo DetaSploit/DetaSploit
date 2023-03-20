@@ -18,7 +18,7 @@
 <h3 align="left">🗣️ Connect with me :</h3>
 <p align="left">
 
-DetaSploit is always open for any suggestion or help. <a href="mailto: DetaSploit@hotmail.com"> Email! </a>
+- DetaSploit is always open for any suggestion or help. <a href="mailto: DetaSploit@hotmail.com"> Email! </a>
 
 <h3 align="left">🔵 Useful Tools :</h3>
 
