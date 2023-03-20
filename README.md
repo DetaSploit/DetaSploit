@@ -20,11 +20,11 @@
 </p>
 
 <h3 align="left">🔵 Useful Tools :</h3>
- [![ToxicBomber](https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia)](https://github.com/DetaSploit/ToxicBomber)
 
+<p align="center"><a href="https://github.com/DetaSploit/ToxicBomber">
+<img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia" /></a></p>
 
 ## Some Useful Tools:
-
 
 [![Link-X](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
 [![TermuxToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=TermuxToolkit&theme=algolia)](https://github.com/toxic-noob/TermuxToolkit)
