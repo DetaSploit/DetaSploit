@@ -1,5 +1,9 @@
-<h3><img align="right" alt="DetaSploit" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjiOYACUA9D4mTITIRzBslNeKYtBF63G4zw&usqp=CAU" /></h3>
-
+<!-- Github README -->
+<p align="center"><a href="https://github.com/DetaSploit">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DetaSploit&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
 <h1 align="center">Hi 👋, I'm MD Asif Hasan</h1>
 <h3 align="left">About me :</h3>
