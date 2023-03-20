@@ -1,7 +1,6 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/DetaSploit">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DetaSploit&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a></p>
-&nbsp;
 
 <h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
