@@ -20,19 +20,8 @@
 </p>
 
 <h3 align="left">🔵 Useful Tools :</h3>
-
 <p align="center"><a href="https://github.com/DetaSploit/ToxicBomber">
 <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia" /></a></p>
-
-## Some Useful Tools:
-
-[![Link-X](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
-[![TermuxToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=TermuxToolkit&theme=algolia)](https://github.com/toxic-noob/TermuxToolkit)
-[![SQLiToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=SQLiToolkit&theme=algolia)](https://github.com/toxic-noob/SQLiToolkit)
-[![EncDecPro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=EncDecPro&theme=algolia)](https://github.com/toxic-noob/EncDecPro)
-[![D-Pro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=D-Pro&theme=algolia)](https://github.com/toxic-noob/D-Pro)
-[![PdfSpeaker](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=PdfSpeaker&theme=algolia)](https://github.com/toxic-noob/PdfSpeaker)
-
 
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
 </a></p>
