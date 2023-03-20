@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=detasploit" alt="detasploit" /></a> </p>
 
-- 🔭 I’m currently working on **DetaSploit**
+- 💻 I’m currently working on **DetaSploit**
 
-- 🌱 I’m currently learning **Ethical Hacking, Animation**
+- 🎓 I’m currently learning **Animation, Ethical Hacking**
 
-- 💬 Ask me about **Android, Ethical Hacking**
+- 💬 Ask me about **Animation, Ethical Hacking**
 
-- ⚡ Favorite Quote **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.**
+- 📖 Favorite Quotes **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Hazrat Muhammad (SM)**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
