@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
-
+&nbsp;
 - I’m currently working on : **DetaSploit**
 
 - I’m currently learning : **Animation, Ethical Hacking**
@@ -15,13 +15,13 @@
 - Favorite Quotes : **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Hazrat Muhammad (SM.)**
 
 <h3 align="left">🗣️ Connect with me :</h3>
-&nbsp;&nbsp;<p align="left">
+&nbsp;<p align="left">
 <a href="https://www.facebook.com/iASIF009.ME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="detasploit" height="30" width="40" /></a>
-</p>&nbsp;&nbsp;
+</p>
 
 <h3 align="left">🔵 Useful Tools :</h3>
-<p align="center"><a href="https://github.com/DetaSploit/ToxicBomber">
-<img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia" /></a></p>
+&nbsp;
+- <a href="https://github.com/DetaSploit/ToxicBomber">ToxicBomber</a> : Powerful Bangladeshi SMS Bomber Tool
 
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
 </a></p>
