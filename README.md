@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">🔵 Useful Tools :</h3>
-<p align="center"> [![ToxicBomber](https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia)](https://github.com/DetaSploit/ToxicBomber) </p>
+ [![ToxicBomber](https://github-readme-stats.vercel.app/api/pin/?username=DetaSploit&repo=ToxicBomber&theme=algolia)](https://github.com/DetaSploit/ToxicBomber)
 
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
 </a></p>
