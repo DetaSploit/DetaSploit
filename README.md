@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
-&nbsp;
+
 - I’m currently working on : **DetaSploit**
 
 - I’m currently learning : **Animation, Ethical Hacking**
@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">🔵 Useful Tools :</h3>
-&nbsp;
+
 - <a href="https://github.com/DetaSploit/ToxicBomber">ToxicBomber</a> : Powerful Bangladeshi SMS Bomber Tool
 
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
