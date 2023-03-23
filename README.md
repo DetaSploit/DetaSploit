@@ -26,9 +26,9 @@
 
 - <a href="https://github.com/DetaSploit/ToxicBomber">ToxicBomber</a> : **Powerful Bangladeshi SMS Bomber Tool**
 
-- <a href="https://github.com/DetaSploit/Zphish">Zphish</a> : **Zphish is a Powerful phishing tool It has 30 different phishing templates**
-
 - <a href="https://github.com/DetaSploit/iPTrack">iPTrack</a> : **Simple iP Address Tracker Tool**
+
+- <a href="https://github.com/DetaSploit/Brute-F1">Brute-F1</a> : **Powerful Facebook Bruteforce Tool**
 
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
 </a></p>
