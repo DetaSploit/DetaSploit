@@ -30,5 +30,7 @@
 
 - <a href="https://github.com/DetaSploit/Brute-F1">Brute-F1</a> : **Powerful Facebook Bruteforce Tool**
 
+- <a href="https://github.com/DetaSploit/AnonURL">AnonURL</a> : **Simple Script Masks the Phishing Link Under the Normal URL**
+
 &nbsp;<p align="center"><a href="https://github.com/DetaSploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetaSploit&layout=compact&theme=react&hide_border=true" />
 </a></p>
