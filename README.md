@@ -24,8 +24,6 @@
 
 <h3 align="left">🔵 Useful Tools :</h3>
 
-- <a href="https://github.com/DetaSploit/ToxicBomber">ToxicBomber</a> : **Powerful Bangladeshi SMS Bomber Tool**
-
 - <a href="https://github.com/DetaSploit/iPTrack">iPTrack</a> : **Simple iP Address Tracker Tool**
 
 - <a href="https://github.com/DetaSploit/Brute-F1">Brute-F1</a> : **Powerful Facebook Bruteforce Tool**
