@@ -2,12 +2,14 @@
 <p align="center"><a href="https://github.com/DetaSploit">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DetaSploit&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a></p>
 
-<h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
+<h2 align="center">Howdy 👋, It's MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
 
-- I'm from: **Bangladesh**
+- I'm a **Electrical Technician**
 
-- Age: **17 Years**
+- I'm from **Bangladesh**
+
+- Dream : **Achieving world fame**
 
 - Favorite Quotes : **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Prophet Muhammad (ﷺ)**
 
