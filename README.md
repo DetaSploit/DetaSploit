@@ -5,15 +5,9 @@
 <h2 align="center">Hi 👋, I'm MD Asif Hasan</h2>
 <h3 align="left">👤 About me :</h3>
 
-- location : **Bangladesh, Khulna, Satkhira**
+- I'm from: **Bangladesh**
 
-- Religion : **Islam**
-
-- Relationship : **Single**
-
-- Currently working on : **ExtraToons, DetaSploit**
-
-- Currently learning : **Animation, Ethical Hacking**
+- Age: **17 Years**
 
 - Favorite Quotes : **When you see a person who has been given more than you in money and beauty, then look to those who have been given less.<br/><br/>― Prophet Muhammad (ﷺ)**
 
